@@ -1,4 +1,4 @@
-module github.com/akhil/slack-age-bot
+module github.com/machary5/slack-age-bot
 
 go 1.16
 
