@@ -50,5 +50,6 @@ func main() {
 	err := bot.Listen(ctx)
 	if err != nil {
 		log.Fatal(err)
+		exit
 	}
 }
